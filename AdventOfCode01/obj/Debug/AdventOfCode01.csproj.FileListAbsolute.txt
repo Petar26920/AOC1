@@ -5,3 +5,11 @@ C:\Users\Student\source\repos\AdventOfCode01\obj\Debug\AdventOfCode01.csprojAsse
 C:\Users\Student\source\repos\AdventOfCode01\obj\Debug\AdventOfCode01.csproj.CoreCompileInputs.cache
 C:\Users\Student\source\repos\AdventOfCode01\obj\Debug\AdventOfCode01.exe
 C:\Users\Student\source\repos\AdventOfCode01\obj\Debug\AdventOfCode01.pdb
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\bin\Debug\AdventOfCode01.exe.config
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\bin\Debug\AdventOfCode01.exe
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\bin\Debug\AdventOfCode01.pdb
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\obj\Debug\AdventOfCode01.csproj.AssemblyReference.cache
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\obj\Debug\AdventOfCode01.csproj.SuggestedBindingRedirects.cache
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\obj\Debug\AdventOfCode01.csproj.CoreCompileInputs.cache
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\obj\Debug\AdventOfCode01.exe
+C:\Users\MV\Source\Repos\AOC1\AdventOfCode01\obj\Debug\AdventOfCode01.pdb
